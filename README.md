@@ -18,4 +18,4 @@ MyShop REST API is a backend service built using the Express.js framework and No
 - Navigate to the project directory using ```cd <repository>```
 - Install the necessary dependencies using ```npm install```
 - Start the development server using ```npm start```
-- The API will be available at http://localhost:3000. You can use tools like Postman to send and receive data.
+- The API will be available at ```http://localhost:3000```. You can use tools like Postman to send and receive data.
